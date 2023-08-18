@@ -1,0 +1,23 @@
+.heading{
+    width:80%;
+    color:rgb(250,0, 0);
+    font-size: 50px;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+
+
+} 
+.bold_stuff{
+    color:black;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15px;
+}
+body{
+    background-color:#48dcfa;
+}
+#camera,#result{
+ border: 5px ridge black;
+ width:350px;
+ height:350px;
+}
